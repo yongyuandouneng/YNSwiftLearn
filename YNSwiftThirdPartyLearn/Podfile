@@ -1,0 +1,14 @@
+target 'YNSwiftThirdPartyLearn' do
+
+use_frameworks!
+
+# 网络请求
+pod ‘Alamofire’
+
+# 图片请求
+pod ‘Kingfisher’
+
+
+
+
+end
